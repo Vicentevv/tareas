@@ -30,4 +30,4 @@ temas que se desarrollan, durante el ciclo académico y que se usarán según la
 ### Ejecutar entorno
 Para ejecutar el entorno debe hacer clic en el siguiente botón:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/jorgaf/zeppelin-paavanzada)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Vicentevv/tareas)
